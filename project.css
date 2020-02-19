@@ -1,0 +1,31 @@
+h1 {
+    color: blue;
+}
+
+#blues {
+    background-color: blue;
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+}
+
+#oranges {
+    background-color: orange;
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+}
+
+#reds {
+    background-color: red;
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+}
+
+#purples {
+    background-color: purple;
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+}
